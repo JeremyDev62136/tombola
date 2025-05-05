@@ -1,10 +1,10 @@
 {
     "cases": [
       null, null, null, "Lachatounerie", null,
-      null, null, null, null, "test",
       null, null, null, null, null,
       null, null, null, null, null,
       null, null, null, null, null,
-      "Miwa.rss", "test", null, null, null
+      null, null, null, null, null,
+      "Miwa.rss", null, null, null, null
     ]
   }
